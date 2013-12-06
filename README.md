@@ -1,5 +1,7 @@
 # Easy admin
 
+![It's easy!](http://www.londonjuniormustangs.com/uploads/1/3/6/1/13617815/4231885_orig.gif "It's easy!")
+
 A simple Rails 4 app that uses authentication and model management via ActiveAdmin.
 For the sake of this example I've added a simple resource named POI (Point Of Interest) equipped with the attributes: name, latitude, longitude and notes.
 
